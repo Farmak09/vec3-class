@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\farma\documents\visual studio 2015\projects\vec3\vec3\vec3.h(89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  c:\users\farma\documents\visual studio 2015\projects\vec3\vec3\vec3.h(82): note: while compiling class template member function 'float vec3<int>::distance_to(const vec3<int> &)'
+  c:\users\farma\documents\visual studio 2015\projects\vec3\vec3\main.cpp(41): note: see reference to function template instantiation 'float vec3<int>::distance_to(const vec3<int> &)' being compiled
+  c:\users\farma\documents\visual studio 2015\projects\vec3\vec3\main.cpp(6): note: see reference to class template instantiation 'vec3<int>' being compiled
+  Vec3.vcxproj -> c:\users\farma\documents\visual studio 2015\Projects\Vec3\Debug\Vec3.exe
+  Vec3.vcxproj -> c:\users\farma\documents\visual studio 2015\Projects\Vec3\Debug\Vec3.pdb (Partial PDB)
